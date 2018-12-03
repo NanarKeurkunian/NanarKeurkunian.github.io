@@ -16,7 +16,7 @@
     left: 50%;
 }
 #sketch2 {
-   position: relative;
+   position: absolute;
     left: 50%;
     top: 750px;
 }
@@ -31,12 +31,12 @@
     top: 750px;
 }
 #bio-name {
-   position: relative;
+   position: absolute;
     left: 350px;
     top: -360px;
 }
 #bio-text {
-   position: relative;
+   position: absolute;
     left: 190px;
     top: -360px;
 }
