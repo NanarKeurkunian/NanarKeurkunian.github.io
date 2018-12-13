@@ -13,11 +13,11 @@
 }
 #sketch1 {
    position: absolute;
-    left: 50%;
+    left: 35%;
 }
 #sketch2 {
    position: relative;
-    left: 50%;
+    left: 35%;
     top: 750px;
 }
 #sketch3 {
@@ -27,6 +27,6 @@
 }
 #sketch3 {
     position: relative;
-     left: 50%
+     left: 35%
      top: 750px;
 }
