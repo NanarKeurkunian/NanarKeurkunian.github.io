@@ -17,16 +17,16 @@
 }
 #sketch2 {
    position: relative;
-    left: 35%;
-    top: 750px;
-}
-#sketch3 {
-   position: relative;
     left: 20%;
     top: 750px;
 }
 #sketch3 {
+   position: relative;
+    left: 15%;
+    top: 750px;
+}
+#sketch3 {
     position: relative;
-     left: 35%
+     left: 40%
      top: 750px;
 }
